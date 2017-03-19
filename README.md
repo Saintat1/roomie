@@ -1,2 +1,4 @@
-# roomie
-python web app Roomie
+awesome-python-webapp
+=====================
+
+A python webapp tutorial.
